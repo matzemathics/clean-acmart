@@ -426,7 +426,6 @@
   }
   
   show bibliography: it => {
-    colbreak(weak: true)
     set text(size: .9em)
     it
   }
